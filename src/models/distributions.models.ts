@@ -1,6 +1,6 @@
 export enum DistributionType {
-  UNIFORM = 'uniform',
-  GAUSSIAN = 'gaussian',
+  UNIFORM = 'Uniform',
+  GAUSSIAN = 'Gaussian',
 }
 
 export const availableDistributions: DistributionType[] = [
