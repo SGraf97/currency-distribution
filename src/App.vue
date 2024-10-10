@@ -3,9 +3,7 @@ import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <header>
-    Signaloid currency exchange application
-  </header>
+  <header>Signaloid currency exchange application</header>
   <RouterView />
 </template>
 

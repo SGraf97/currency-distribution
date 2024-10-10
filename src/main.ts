@@ -12,10 +12,10 @@ import router from './router'
 
 const vuetify = createVuetify({
   components,
-  directives,
-});
-const app = createApp(App);
+  directives
+})
+const app = createApp(App)
 
-app.use(vuetify);
-app.use(router);
-app.mount('#app');
+app.use(vuetify)
+app.use(router)
+app.mount('#app')

@@ -1,9 +1,6 @@
 export enum Currencies {
   EUR = 'EUR',
-  GBP = 'GBP',
+  GBP = 'GBP'
 }
 
-export const availableCurrencies: Currencies[] = [
-  Currencies.EUR,
-  Currencies.GBP,
-]
+export const availableCurrencies: Currencies[] = [Currencies.EUR, Currencies.GBP]
